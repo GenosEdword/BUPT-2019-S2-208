@@ -1,0 +1,12 @@
+<!--start.wxml-->
+
+
+
+<button class="btn1" bindtap="openlight">
+开灯</button>
+
+
+
+<button class="btn2" bindtap="closelight">
+
+关灯</button>
